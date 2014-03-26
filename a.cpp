@@ -7,6 +7,7 @@ int main() {
 	return 0;
 
 
+<<<<<<< HEAD
 
 
 sdf
@@ -20,4 +21,7 @@ sfsajdfsljfsfs
 f
 s
 df
+=======
+    // Remote change
+>>>>>>> Remote change
 }
